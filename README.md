@@ -1,4 +1,4 @@
-# TidyTuesday-Media-Franchise-Powerhouses
+# TidyTuesday: Media Franchise Powerhouses
 
 One of my first attemps to plot with ggplot in R, which is part of the tidyverse package.
 
